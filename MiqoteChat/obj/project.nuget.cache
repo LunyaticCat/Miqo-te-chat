@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UldtyYWwElPg8KUzD4/N4NqgoffeBU/8Zr1twu5/SQnRyqr8IQKtvX5B8qktlqUy790+0PtEUu/peS4Ua0sSXQ==",
+  "success": true,
+  "projectFilePath": "/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/MiqoteChat.csproj",
+  "expectedPackageFiles": [
+    "/home/luna/.nuget/packages/dalamudpackager/2.1.12/dalamudpackager.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

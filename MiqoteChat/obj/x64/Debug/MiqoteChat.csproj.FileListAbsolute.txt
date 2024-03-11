@@ -1,0 +1,11 @@
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/bin/x64/Debug/goat.png
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/bin/x64/Debug/MiqoteChat.deps.json
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/bin/x64/Debug/MiqoteChat.dll
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/bin/x64/Debug/MiqoteChat.pdb
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.csproj.AssemblyReference.cache
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.GeneratedMSBuildEditorConfig.editorconfig
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.AssemblyInfoInputs.cache
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.AssemblyInfo.cs
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.csproj.CoreCompileInputs.cache
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.dll
+/home/luna/Documents/Projects/Miqo-te-chat/MiqoteChat/obj/x64/Debug/MiqoteChat.pdb
